@@ -1,0 +1,9 @@
+Molten Chambers of Wulmorn
+
+You are a brave and brass barbarian, thirsty for adventure and hungry for one of Rhun's classic roast lamb legs. Yet, before you can taste victory and smell the aroma of lamb, you find yourself helping a group of beautiful half-eves. With a wink of their eyes, they sent you off to the Molten Chambers of Wulmorn. They told you that their old friend Ranorim had gone down into the chambers ages ago, but he is yet to return. If you can find Ranorim and bring him back, your new half-elf friends promised to grant you rewards than your barbarian brain could imagine. You had a free weekend, so you begin your adventure by traveling to the entrance of the Molten Chambers, as your journey begins.
+
+You stand before the doorway to the Molten Chambers. While preparing your warhammer for the beasts it is about to slay, you spot a glimmer tucked away in a corner by the door. It appears to be a flask left behind by some drunkard. What would you like to do?
+	
+	a.) Pick up the flask
+	
+	b.) Approach the door
